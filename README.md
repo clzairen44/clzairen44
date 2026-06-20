@@ -33,7 +33,7 @@ Power electronics <br>
 Data science and visualization 
 
 
-**⚡ Project:**
+**⚡ Projects:**
 
 📌 Rain Energy Harvester <br>
 A hydroelectric energy harvesting prototype using rainwater to generate electric power. This prototype involved designing a PCB with proper power supply, sensors, and other peripherals.
